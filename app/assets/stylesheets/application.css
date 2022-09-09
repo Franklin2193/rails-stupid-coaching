@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ html {
+  font-size: 20px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "Open Sans", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+  text-align: justify;
+}
+ p {
+  color: red;
+  width: 500px;
+  font-family: "Open Sans", sans-serif;
+
+}
